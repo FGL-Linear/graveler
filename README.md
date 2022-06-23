@@ -1,3 +1,6 @@
+# WARNING
+This fork is my attempt to switch the use of callModule() to moduleServer() in functions like level_up() for personal use. I am a complete newbie in Shiny, graveler and GitHub. It's the first time I've ever forked a repo and I've never collaborated with other coders, so I recommend that nobody installs graveler from this fork. Instead, go to https://github.com/ghcarlalan/graveler and install from there.
+
 # graveler
 
 > Build standardized, modular dashboards in {shiny}
